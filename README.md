@@ -2,6 +2,8 @@
 
 It is common for the watcher callback to use exactly the same reactive state as the source.
 
+Composition API is used for the above.
+
 ## Example
 
 In the code I have took an example of watchEffect being applied on the input field.
